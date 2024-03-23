@@ -1,0 +1,2 @@
+# portfolio-optimization
+markowitz model
